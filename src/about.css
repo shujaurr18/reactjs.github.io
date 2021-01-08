@@ -1,0 +1,44 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    font-size: 16px;
+}
+html{
+    height: 100%;
+}
+.aboutlogo {
+    width: 100%;
+    text-align: center;
+border: darkblue 2px solid;
+padding: 20px;
+}
+.aboutlogo img{
+    height: 50px;
+    width: 50px;
+}
+.aboutheading h1{
+    font-size: 30px;
+    color: #000;
+    line-height: 30px;
+}
+.aboutheading{
+    width: 100%;
+    text-align: center;
+font-family: sans-serif;
+}
+.aboutheading p{
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 16px;
+    color: #414141;
+}
+.person_whoweare img{
+    height: 450px;
+    
+}
+.person_whoweare{
+    text-align: center;
+}
